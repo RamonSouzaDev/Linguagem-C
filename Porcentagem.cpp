@@ -6,7 +6,7 @@
 int main(){
 	setlocale(LC_ALL,"");
 	
-	float porcem, total, rest;
+	float porcem, total, rest;asd
 	
 	printf("Digite a porcetagem:");
 	scanf("%f",&porcem);
@@ -17,7 +17,7 @@ int main(){
 	scanf("%f",&total);
 	
 	rest = (porcem*total)/100;
-	printf("\nResultado é : %.0f", rest);
+	printf("\nResultado ï¿½ : %.0f", rest);
 	
 	
 }
