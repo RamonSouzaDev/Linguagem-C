@@ -1,6 +1,6 @@
 #include <stdio.h>asd
 #include <stdlib.h>
-#include <locale.h>
+#include <locale.h>asd
 
 int main(){
 	setlocale(LC_ALL,"");
