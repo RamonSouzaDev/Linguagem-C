@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>asd
 #include <stdlib.h>
 #include <locale.h>
 
@@ -10,7 +10,7 @@ int main(){
 	
 	
 	
-	printf("Digite a quantidade de dias que você deseja permanecer no hotel:");
+	printf("Digite a quantidade de dias que vocï¿½ deseja permanecer no hotel:");
 	scanf("%d",&dias);
 	
 	if(dias>15){
@@ -31,6 +31,6 @@ int main(){
 		
 		
 		
-		printf("Valor da estadia:.....%.2f\n O valor dos serviços:.....%.2f\n Valor Total A pagar.....%.2f",totalTaxa,totalEstadia,total);
+		printf("Valor da estadia:.....%.2f\n O valor dos serviï¿½os:.....%.2f\n Valor Total A pagar.....%.2f",totalTaxa,totalEstadia,total);
 	}
 	
